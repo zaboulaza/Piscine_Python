@@ -1,0 +1,10 @@
+Metadata-Version: 2.4
+Name: ft_package
+Version: 0.0.1
+Summary: A sample test package
+Author-email: Nour <nsmail@42.fr>
+License: MIT
+Project-URL: Homepage, https://github.com/zaboulaza/ft_package
+Description-Content-Type: text/markdown
+License-File: LICENSE
+Dynamic: license-file
