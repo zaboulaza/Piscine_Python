@@ -1,6 +1,7 @@
 
 def slice_me(family: list, start: int, end: int) -> list :
     """slice decoupe une liste"""
+    
     if(not isinstance(family, (list))) :
         raise ValueError("Error: wrong argument")
     if not isinstance(start, int) or not isinstance(end, int) :
@@ -19,10 +20,10 @@ def slice_me(family: list, start: int, end: int) -> list :
         
     print(f"My shape is : ({lenght}, {widght})")
     print(f"My new shape is : ({len(res)}, {len(res[0])})")
+    
     return res
 
 def main() -> int :
-    
     
     return 1
 
