@@ -3,7 +3,7 @@ from tqdm import tqdm
 def main() -> int :
     
     for i in tqdm([1, 2, 3, 4, 5]) :
-        pass
+        pas
     
     return (1)
 
