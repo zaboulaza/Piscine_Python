@@ -21,3 +21,4 @@ class Stark(Character):
         """Your docstring for Method"""
         self.is_alive = False
         
+#end
