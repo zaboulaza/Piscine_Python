@@ -39,3 +39,5 @@ class Lannister(Character):
     @classmethod
     def create_lannister(cls, nom, is_alive=True):
         return (cls(nom, is_alive))
+
+>
